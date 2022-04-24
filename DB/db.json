@@ -21,9 +21,13 @@
         "name": "DOMMINO'S",
         "address": "Gurugram Sohna"
       }
-    ]
+    ],
+    {
+      "id": 5,
+      "name": "DOMMINO'S",
+      "address": "Gurugram Sohna Road1"
+    }
   ],
-  
   "posts": [
     {
       "id": 1,
